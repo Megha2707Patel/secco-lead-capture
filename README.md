@@ -4,6 +4,14 @@ A small lead capture application built for the Secco Squared Junior Web Develope
 
 The app allows visitors to submit lead information, saves each lead to Supabase, forwards the saved lead to the provided webhook endpoint server-side, and displays submitted leads on a `/leads` dashboard.
 
+## Live Demo
+
+Deployed App:
+https://secco-lead-capture-rho.vercel.app
+
+Leads Dashboard:
+https://secco-lead-capture-rho.vercel.app/leads
+
 ## Live Routes
 
 - `/` - Public lead capture form
