@@ -99,10 +99,3 @@ If the webhook call fails, the error is logged on the server, but the user still
 
 With more time, I would add authentication for the /leads dashboard, pagination/search for larger lead volumes, and more detailed webhook retry logging.
 
-
-After saving:
-
-```bash
-git add README.md
-git commit -m "Improve README documentation"
-git push
